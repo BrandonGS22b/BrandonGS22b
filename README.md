@@ -58,12 +58,18 @@ I love exploring new tech stacks 💻 and leveraging them to build cool stuff �
 
 <h3 align="center">🚀 Featured Projects</h3>
 
-| Project Name | Description | Tech Stack | Link |
-|---------------|-------------|-------------|------|
-| ♻️ **Gestión de Residuos** | Plataforma web y app móvil para reportar, gestionar y dar seguimiento a solicitudes de mantenimiento ambiental. | Node.js · Express · MongoDB · React · React Native | [📂 View Project](./docs/gestion_residuos.md) |
-| 🔐 **Login JWT Express** | Sistema de autenticación con tokens JWT, validación y roles de usuario. | Node.js · Express · MongoDB · JWT | [📂 View Project](./docs/loginExpress_ts-jwt.md) |
-| 🧾 **API Backend NestJS** | Backend modular con autenticación, validaciones y subida de archivos. | NestJS · MongoDB · TypeScript | [📂 View Project](./docs/ApiNestjs_backend.md) |
-| 📱 **React Native App** | Aplicación móvil con login, perfil y sistema de reportes. | React Native · TypeScript | [📂 View Project](./docs/react_native_app.md) |
+| Proyecto | Descripción | Tecnologías | Repositorio |
+|-----------|--------------|--------------|--------------|
+| 🎬 **AplicacionPeliculasLogin (PHP)** | Aplicación web que permite a los usuarios ver y agregar películas desde una interfaz amigable. | PHP · MySQL · Bootstrap | [🔗 Ver en GitHub](https://github.com/BrandonGS22b/AplicacionPeliculasLogin) |
+| ⚙️ **ApiNestjs_backend** | API construida en NestJS con TypeORM para gestión de usuarios y autenticación. | NestJS · TypeORM · MongoDB | [🔗 Ver en GitHub](https://github.com/BrandonGS22b/ApiNestjs_backend) |
+| 🧩 **nestjs-prisma-crud** | Backend modular con login y CRUD de usuarios utilizando Prisma. | NestJS · Prisma · PostgreSQL | [🔗 Ver en GitHub](https://github.com/BrandonGS22b/nestjs-prisma-crud) |
+| 🧠 **RepositoriosUsuarios** | Backend para autenticación JWT y gestión de usuarios. | Node.js · Express · JWT · MongoDB | [🔗 Ver en GitHub](https://github.com/BrandonGS22b/RepositoriosUsuarios/tree/main) |
+| 🔐 **loginExpress.ts-jwt** | Backend para app ambiental con autenticación JWT y roles. | Node.js · Express · TypeScript · MongoDB | [🔗 Ver en GitHub](https://github.com/BrandonGS22b/loginExpress.ts-jwt) |
+| 🌱 **React_P.MedioAmbiente** | Software web para reportar, gestionar y dar seguimiento a solicitudes ambientales. | React · Node.js · Express · MongoDB | [🔗 Ver en GitHub](https://github.com/BrandonGS22b/React_P.MedioAmbiente) |
+| 📱 **LoginReactNative** | App móvil para reportes ambientales de líderes comunales vía Android/iOS. | React Native · TypeScript · Expo | [🔗 Ver en GitHub](https://github.com/BrandonGS22b/LoginReactNative) |
+| 💻 **Backend_inventario (Django)** | Sistema para registrar, actualizar y monitorear equipos informáticos y usuarios. | Django · Python · SQLite | [🔗 Ver en GitHub](https://github.com/BrandonGS22b/Backend_inventario) |
+| 🤖 **N8n_Proyectos** | Automatizaciones con N8N: Pokémon API, reportes automáticos, y flujos empresariales. | N8N · Docker · GitHub Actions | [🔗 Ver en GitHub](https://github.com/BrandonGS22b/N8n_Proyectos) |
+| 🧾 **Laravel-backend** | Aplicación web Laravel con gestión de contribuyentes, panel admin y arquitectura limpia. | Laravel · Breeze · TailwindCSS · MySQL | [🔗 Ver en GitHub](https://github.com/BrandonGS22b/Laravel-backend) |
 
 ---
 
