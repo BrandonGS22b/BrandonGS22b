@@ -60,18 +60,18 @@ I love exploring new tech stacks 💻 and leveraging them to build cool stuff �
 
 <h3 align="center">🚀 Featured Projects</h3>
 
-| Proyecto | Descripción | Tecnologías | Repositorio |
-|-----------|--------------|--------------|--------------|
-| 🎬 **AplicacionPeliculasLogin (PHP)** | Aplicación web que permite a los usuarios ver y agregar películas desde una interfaz amigable. | PHP · MySQL · Bootstrap | [🔗 Ver en GitHub](https://github.com/BrandonGS22b/AplicacionPeliculasLogin) |
-| ⚙️ **ApiNestjs_backend** | API construida en NestJS con TypeORM para gestión de usuarios y autenticación. | NestJS · TypeORM · MongoDB | [🔗 Ver en GitHub](https://github.com/BrandonGS22b/ApiNestjs_backend) |
-| 🧩 **nestjs-prisma-crud** | Backend modular con login y CRUD de usuarios utilizando Prisma. | NestJS · Prisma · PostgreSQL | [🔗 Ver en GitHub](https://github.com/BrandonGS22b/nestjs-prisma-crud) |
-| 🧠 **RepositoriosUsuarios** | Backend para autenticación JWT y gestión de usuarios. | Node.js · Express · JWT · MongoDB | [🔗 Ver en GitHub](https://github.com/BrandonGS22b/RepositoriosUsuarios/tree/main) |
-| 🔐 **loginExpress.ts-jwt** | Backend para app ambiental con autenticación JWT y roles. | Node.js · Express · TypeScript · MongoDB | [🔗 Ver en GitHub](https://github.com/BrandonGS22b/loginExpress.ts-jwt) |
-| 🌱 **React_P.MedioAmbiente** | Software web para reportar, gestionar y dar seguimiento a solicitudes ambientales. | React · Node.js · Express · MongoDB | [🔗 Ver en GitHub](https://github.com/BrandonGS22b/React_P.MedioAmbiente) |
-| 📱 **LoginReactNative** | App móvil para reportes ambientales de líderes comunales vía Android/iOS. | React Native · TypeScript · Expo | [🔗 Ver en GitHub](https://github.com/BrandonGS22b/LoginReactNative) |
-| 💻 **Backend_inventario (Django)** | Sistema para registrar, actualizar y monitorear equipos informáticos y usuarios. | Django · Python · SQLite | [🔗 Ver en GitHub](https://github.com/BrandonGS22b/Backend_inventario) |
-| 🤖 **N8n_Proyectos** | Automatizaciones con N8N: Pokémon API, reportes automáticos, y flujos empresariales. | N8N · Docker · GitHub Actions | [🔗 Ver en GitHub](https://github.com/BrandonGS22b/N8n_Proyectos) |
-| 🧾 **Laravel-backend** | Aplicación web Laravel con gestión de contribuyentes, panel admin y arquitectura limpia. | Laravel · Breeze · TailwindCSS · MySQL | [🔗 Ver en GitHub](https://github.com/BrandonGS22b/Laravel-backend) |
+| Project | Description | Technologies | Repository |
+|----------|--------------|--------------|-------------|
+| 🎬 **MovieAppLogin (PHP)** | Web application that allows users to view and add movies through a friendly interface. | PHP · MySQL · Bootstrap | [🔗 View on GitHub](https://github.com/BrandonGS22b/AplicacionPeliculasLogin) |
+| ⚙️ **ApiNestjs_backend** | API built with NestJS and TypeORM for user management and authentication. | NestJS · TypeORM · MongoDB | [🔗 View on GitHub](https://github.com/BrandonGS22b/ApiNestjs_backend) |
+| 🧩 **nestjs-prisma-crud** | Modular backend with login and user CRUD using Prisma ORM. | NestJS · Prisma · PostgreSQL | [🔗 View on GitHub](https://github.com/BrandonGS22b/nestjs-prisma-crud) |
+| 🧠 **UserRepositories** | Backend for JWT authentication and user management. | Node.js · Express · JWT · MongoDB | [🔗 View on GitHub](https://github.com/BrandonGS22b/RepositoriosUsuarios/tree/main) |
+| 🔐 **loginExpress.ts-jwt** | Backend for an environmental app with JWT authentication and roles. | Node.js · Express · TypeScript · MongoDB | [🔗 View on GitHub](https://github.com/BrandonGS22b/loginExpress.ts-jwt) |
+| 🌱 **React_P.EnvironmentProject** | Web software for reporting, managing, and tracking environmental requests. | React · Node.js · Express · MongoDB | [🔗 View on GitHub](https://github.com/BrandonGS22b/React_P.MedioAmbiente) |
+| 📱 **LoginReactNative** | Mobile app for community leaders to report environmental issues via Android/iOS. | React Native · TypeScript · Expo | [🔗 View on GitHub](https://github.com/BrandonGS22b/LoginReactNative) |
+| 💻 **Backend_inventory (Django)** | System to register, update, and monitor IT equipment and users. | Django · Python · SQLite | [🔗 View on GitHub](https://github.com/BrandonGS22b/Backend_inventario) |
+| 🤖 **N8n_Projects** | Automations with N8N: Pokémon API, automatic reports, and business workflows. | N8N · Docker · GitHub Actions | [🔗 View on GitHub](https://github.com/BrandonGS22b/N8n_Proyectos) |
+| 🧾 **Laravel-backend** | Laravel web app for taxpayer management, admin panel, and clean architecture. | Laravel · Breeze · TailwindCSS · MySQL | [🔗 View on GitHub](https://github.com/BrandonGS22b/Laravel-backend) |
 
 ---
 
