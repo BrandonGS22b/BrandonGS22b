@@ -121,18 +121,6 @@ I love exploring new tech stacks 💻 and leveraging them to build cool stuff �
 
 ---
 
-<h3 align="left">📊 GitHub Stats:</h3>
-
-<div align="center">
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=BrandonGS22b&theme=midnight-purple&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&hide=contribs,issues)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Brandon_Garcia&theme=midnight-purple)](https://git.io/streak-stats)
-
-</div>
-
----
-
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
 <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
