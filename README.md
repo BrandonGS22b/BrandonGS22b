@@ -63,8 +63,8 @@ I love exploring new tech stacks 💻 and leveraging them to build cool stuff �
 | Project | Description | Technologies | Repository |
 |----------|--------------|--------------|-------------|
 | 🎬 **MovieAppLogin (PHP)** | Web application that allows users to view and add movies through a friendly interface. | PHP · MySQL · Bootstrap | [🔗 View on GitHub](https://github.com/BrandonGS22b/AplicacionPeliculasLogin) |
-| ⚙️ **ApiNestjs_backend** | API built with NestJS and TypeORM for user management and authentication. | NestJS · TypeORM · MongoDB | [🔗 View on GitHub](https://github.com/BrandonGS22b/ApiNestjs_backend) |
-| 🧩 **nestjs-prisma-crud** | Modular backend with login and user CRUD using Prisma ORM. | NestJS · Prisma · PostgreSQL . Docker | [🔗 View on GitHub](https://github.com/BrandonGS22b/nestjs-prisma-crud) |
+| ⚙️ **ApiNestjs_backend** | API built with NestJS and TypeORM for user management and authentication. | NestJS · TypeORM · PostgreSQL . Docker | [🔗 View on GitHub](https://github.com/BrandonGS22b/ApiNestjs_backend) |
+| 🧩 **nestjs-prisma-crud** | Modular backend with login and user CRUD using Prisma ORM. | NestJS · Prisma . Docker | [🔗 View on GitHub](https://github.com/BrandonGS22b/nestjs-prisma-crud) |
 | 🧠 **UserRepositories** | Backend for JWT authentication and user management. | Node.js · Express · JWT · MongoDB | [🔗 View on GitHub](https://github.com/BrandonGS22b/RepositoriosUsuarios/tree/main) |
 | 🔐 **loginExpress.ts-jwt** | Backend for an environmental app with JWT authentication and roles. | Node.js · Express · TypeScript · MongoDB | [🔗 View on GitHub](https://github.com/BrandonGS22b/loginExpress.ts-jwt) |
 | 🌱 **React_P.EnvironmentProject** | Web software for reporting, managing, and tracking environmental requests. | React · Node.js · Express · MongoDB | [🔗 View on GitHub](https://github.com/BrandonGS22b/React_P.MedioAmbiente) |
