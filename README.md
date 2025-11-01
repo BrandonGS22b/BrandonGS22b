@@ -26,7 +26,7 @@ I love exploring new tech stacks ğŸ’» and leveraging them to build cool stuff ğŸ
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50" />
- <img src="https://n8n.io/logo.svg" alt="n8n logo" width="50" height="50" />
+ <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/n8n.svg" alt="n8n logo" width="50" height="50" />
 </div>
 
 <br>
