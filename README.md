@@ -17,25 +17,27 @@ I love exploring new tech stacks 💻 and leveraging them to build cool stuff �
  <img src="https://komarev.com/ghpvc/?username=BrandonGS22b&label=Profile%20views&color=0e75b6&style=flat" alt="supun nanayakkara" />
 </p>
 
+<!-- 🔹 Fila superior de tecnologías -->
 <div align="center">
-  <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="50" height="50" /></div>
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
-  
+  <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="Node.js" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50" />
 </div>
 
 <br>
 
+<!-- 🔹 Fila con Docker, AWS, GitHub, etc. -->
 <div align="center">
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="Prettier" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="GraphQL" width="50" height="50" />
 </div>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
