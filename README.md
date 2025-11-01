@@ -19,7 +19,7 @@ I love exploring new tech stacks 💻 and leveraging them to build cool stuff �
 
 <!-- 🔹 Fila superior de tecnologías -->
 <div align="center">
-  <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="50" height="50" />
