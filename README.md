@@ -74,7 +74,7 @@ I love exploring new tech stacks 💻 and leveraging them to build cool stuff �
 | 🌱 **React_P.EnvironmentProject** | Web software for reporting, managing, and tracking environmental requests. | React · Node.js · Express · MongoDB | [🔗 View on GitHub](https://github.com/BrandonGS22b/React_P.MedioAmbiente) |
 | 📱 **LoginReactNative** | Mobile app for community leaders to report environmental issues via Android/iOS. | React Native · TypeScript · Expo | [🔗 View on GitHub](https://github.com/BrandonGS22b/LoginReactNative) |
 | 💻 **Backend_inventory (Django)** | System to register, update, and monitor IT equipment and users. | Django · Python · SQLite | [🔗 View on GitHub](https://github.com/BrandonGS22b/Backend_inventario) |
-| 🤖 **N8n_Projects** | Automations with N8N: Whatsapp, Telegram, Bots, Ollama, Gemini, OpenAI, Google Cloud, ElevenLabs, RAG, Agentes, PostgreSQL, Ollama, Scraping | [🔗 View on GitHub](https://github.com/BrandonGS22b/N8n_Proyectos) |
+| 🤖 **N8n_Projects** | Automations with N8N: Whatsapp, Telegram, Bots, Ollama, Gemini, OpenAI, Google Cloud, ElevenLabs, RAG, Agentes , Ollama, Scraping | PostgreSQL . MongoDB . MySql . PGVECTOR | [🔗 View on GitHub](https://github.com/BrandonGS22b/N8n_Proyectos) |
 | 🧾 **Laravel-backend** | Laravel web app for taxpayer management, admin panel, and clean architecture. | Laravel · Breeze · TailwindCSS · MySQL | [🔗 View on GitHub](https://github.com/BrandonGS22b/Laravel-backend) |
 
 ---
