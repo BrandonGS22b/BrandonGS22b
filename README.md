@@ -16,27 +16,30 @@ I love exploring new tech stacks 💻 and leveraging them to build cool stuff �
  <img src="https://komarev.com/ghpvc/?username=BrandonGS22b&label=Profile%20views&color=0e75b6&style=flat" alt="Brandon" />
 </p>
 
-<div align="center">
-  <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="nginx" width="50" height="50" />&nbsp;
-  <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="50" height="50" />&nbsp;
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="50" height="50" />&nbsp;
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="50" height="50" />&nbsp;
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50" />&nbsp;
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="50" height="50" />&nbsp;
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/n8n.svg" alt="n8n" width="50" height="50" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="50" height="50" />&nbsp;
-  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="50" height="50" />&nbsp;
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="50" height="50" />&nbsp;
-  <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="Prettier" width="50" height="50" />&nbsp;
-  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="50" height="50" />&nbsp;
-  <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="GraphQL" width="50" height="50" />
-</div>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://techstack-generator.vercel.app/nginx-icon.svg" width="50" height="50" />
+      <img src="https://techstack-generator.vercel.app/django-icon.svg" width="50" height="50" />
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="50" height="50" />
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="50" height="50" />
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="50" height="50" />
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" width="50" height="50" />
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="50" height="50" />
+      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/n8n.svg" width="50" height="50" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="50" height="50" />
+      <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="50" height="50" />
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" width="50" height="50" />
+      <img src="https://techstack-generator.vercel.app/prettier-icon.svg" width="50" height="50" />
+      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="50" height="50" />
+      <img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="50" height="50" />
+    </td>
+  </tr>
+</table>
 
 <br clear="all">
 
@@ -79,9 +82,22 @@ I love exploring new tech stacks 💻 and leveraging them to build cool stuff �
 ---
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/brandon-garcía-suarez-9064ab183/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a><a href="https://stackoverflow.com/users/25611745/brandon-garcia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="30" width="40" /></a><a href="https://www.facebook.com/brandonsuarez.garxia/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" /></a><a href="https://www.instagram.com/brandohfx/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
-</p>
+<table>
+  <tr>
+    <td>
+      <a href="https://www.linkedin.com/in/brandon-garcía-suarez-9064ab183/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
+    </td>
+    <td>
+      <a href="https://stackoverflow.com/users/25611745/brandon-garcia" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="30" width="40" /></a>
+    </td>
+    <td>
+      <a href="https://www.facebook.com/brandonsuarez.garxia/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" /></a>
+    </td>
+    <td>
+      <a href="https://www.instagram.com/brandohfx/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
+    </td>
+  </tr>
+</table>
 
 ---
 
