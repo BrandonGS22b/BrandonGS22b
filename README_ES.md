@@ -109,6 +109,7 @@ Soy **Tecnólogo en Sistemas** e **Ingeniero en formación** de la Universidad d
 
 | Empresa | Rol | Período |
 |---------|-----|---------|
+| **Teleperformance · Naturgy** | Gestión de incidencias en contratos de luz y gas — Atención y resolución de incidencias reguladas | 2025 – Presente 🟢 |
 | **PedidosYa** | Customer Account — Soporte y gestión de incidencias técnicas | 2024 – 2025 |
 | **NecomPlus S.A.S** | Auxiliar Líder BackOffice — Soporte N1/N2, equipos tecnológicos | 2023 – 2024 |
 | **Soporte TI** | Técnico TI — Soporte remoto/presencial, redes, Active Directory | 2021 – 2023 |

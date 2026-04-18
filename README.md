@@ -109,6 +109,7 @@ I'm a **Systems Technologist** and **Software Engineering student** at Universid
 
 | Company | Role | Period |
 |---------|------|--------|
+| **Teleperformance · Naturgy** | Incident management for regulated electricity & gas contracts — Resolution and follow-up of customer claims | 2025 – Present 🟢 |
 | **PedidosYa** | Customer Account — Technical incident management & support | 2024 – 2025 |
 | **NecomPlus S.A.S** | BackOffice Team Lead Assistant — N1/N2 support, tech teams | 2023 – 2024 |
 | **IT Support** | IT Technician — Remote/on-site support, networks, Active Directory | 2021 – 2023 |
