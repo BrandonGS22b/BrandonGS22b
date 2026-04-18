@@ -59,6 +59,13 @@ I'm a **Systems Technologist** and **Software Engineering student** at Universid
   <img src="https://skillicons.dev/icons?i=django,tailwind,bootstrap,materialui,prisma,aws,linux,github,laravel" height="50" />
 </p>
 
+<!-- ROW 6: N8N + Deploy platforms -->
+<p align="center">
+  <img src="https://cdn.simpleicons.org/n8n/EA4B71" height="48" title="N8N" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=vercel,firebase,render,railway" height="50" />
+</p>
+
 ---
 
 ## 🗂️ Languages & Tools by Category
@@ -75,8 +82,18 @@ I'm a **Systems Technologist** and **Software Engineering student** at Universid
 - **☁️ Cloud & Infrastructure**
   <p align="left"><img src="https://skillicons.dev/icons?i=aws,docker,linux" /></p>
 
+- **🤖 Automation & AI**
+  <p align="left">
+    <img src="https://cdn.simpleicons.org/n8n/EA4B71" height="48" title="N8N" />
+    &nbsp;
+    <img src="https://skillicons.dev/icons?i=openai" />
+  </p>
+
+- **🚀 Deployments**
+  <p align="left"><img src="https://skillicons.dev/icons?i=vercel,firebase,render,railway" /></p>
+
 - **🔨 Tools & DevOps**
-  <p align="left"><img src="https://skillicons.dev/icons?i=git,github,vscode,postman" /></p>
+  <p align="left"><img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" /></p>
 
 ---
 

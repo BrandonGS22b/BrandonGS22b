@@ -59,6 +59,13 @@ Soy **Tecnólogo en Sistemas** e **Ingeniero en formación** de la Universidad d
   <img src="https://skillicons.dev/icons?i=django,tailwind,bootstrap,materialui,prisma,aws,linux,github,laravel" height="50" />
 </p>
 
+<!-- FILA 6 (extra): N8N + Deploys -->
+<p align="center">
+  <img src="https://cdn.simpleicons.org/n8n/EA4B71" height="48" title="N8N" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=vercel,firebase,render,railway" height="50" />
+</p>
+
 ---
 
 ## 🗂️ Lenguajes y Herramientas por Categoría
@@ -75,8 +82,18 @@ Soy **Tecnólogo en Sistemas** e **Ingeniero en formación** de la Universidad d
 - **☁️ Cloud & Infraestructura**
   <p align="left"><img src="https://skillicons.dev/icons?i=aws,docker,linux" /></p>
 
+- **🤖 Automatización & IA**
+  <p align="left">
+    <img src="https://cdn.simpleicons.org/n8n/EA4B71" height="48" title="N8N" />
+    &nbsp;
+    <img src="https://skillicons.dev/icons?i=openai" />
+  </p>
+
+- **🚀 Despliegues**
+  <p align="left"><img src="https://skillicons.dev/icons?i=vercel,firebase,render,railway" /></p>
+
 - **🔨 Herramientas & DevOps**
-  <p align="left"><img src="https://skillicons.dev/icons?i=git,github,vscode,postman" /></p>
+  <p align="left"><img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" /></p>
 
 ---
 
